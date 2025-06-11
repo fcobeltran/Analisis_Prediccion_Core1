@@ -28,6 +28,7 @@ El código te mostrará:
 - Total de ventas por categoría
 - Promedio por transacción
 - Categorías con más y menos ventas
+- Estadísticas por género
 - Operaciones matemáticas (suma, resta, multiplicación, división)
 
 
